@@ -1,6 +1,6 @@
-# ProbeTools TaskCam Prototype 
+# ProbeTools TaskCam Tripod Attachment
 
-These STL files can be used for 3D printing. [Click here](https://a360.co/2qtXSVf) for editable Fusion 360 files.
+These STL files can be used for 3D printing. [Click here](https://myhub.autodesk360.com/ue2b58741/g/shares/SH7f1edQT22b515c761e39e362bc062bc64f?viewState=NoIgbgDAdAjCA0IDeAdEAXAngBwKZoC40ARXAZwEsBzAOzXjQEMyzd1C0B2RgMwBNOANgCsEALQAmGMIAcYgCw8JAIzEye8%2BWICcw3DEbLhIxoMZoAviAC6QA) for editable Fusion 360 files.
 
 ## Terms of Use
  
